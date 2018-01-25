@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RocketProject</string>
+    <string name="mission_patch">Иконка миссии</string>
+    <string name="rocket_name">Список запусков ракет</string>
+</resources>
